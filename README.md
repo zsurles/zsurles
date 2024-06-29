@@ -1,4 +1,4 @@
-## Hi 👋, I'm Zoe, an aspiring Data Scientist at UIUC!
+## Hi, I'm Zoe, an aspiring Data Scientist at UIUC! ⭐️✨
 
 - 🔭 I’m currently pursuing a BS in Data Science + Astronomy, with a minor in Informatics, at the University of Illinois Urbana-Champaign
 - 🌱 I’m currently working on [Variable Star Classification - A clean list of bright RR Lyrae stars in the Galactic field](https://github.com/zsurles/variable_star_classification)
