@@ -6,4 +6,4 @@
 - 📫 How to reach me: You can email me at zsurles2@illinois.edu, zoe.surles@icloud.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/zoe-surles/)!
 - 💻 Tools and Skills: Python, R, Unix, Linux, Git, Jupyter Notebook, Pandas, Seaborn, Astropy, Scikit-learn, Matplotlib, Scipy, Numpy, Statsmodels, LaTeX, Adobe Illustrator, and more! 
 - 📊 My next learning goal is to get more experience working with SQL
-- 🌟 My dream job is to be a data scientist working with space-related data!
+- 🌟 My dream job is to be a data scientist working with space-related data or in the gaming industry!
