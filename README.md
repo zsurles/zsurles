@@ -1,4 +1,4 @@
-## Hi, I'm Zoe, an aspiring Data Scientist! ⭐️✨
+## Hi, I'm Zoe ⭐️✨
 
 - 🔭 I graduated this May with a BS in Astronomy + Data Science and minor in Informatics 🎓
 - 🌱 I’m currently working on [Variable Star Classification - A clean list of bright RR Lyrae stars in the Galactic field](https://github.com/zsurles/variable_star_classification), with a paper expected to be published soon 🗞️
